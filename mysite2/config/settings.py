@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'rest_framework',
+    'myapp',
     'pybo.apps.PyboConfig',
     "django.contrib.admin",
     "django.contrib.auth",
